@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="165" viewBox="0 0 495 165" role="img" aria-label="Contribution statistics for ECZ-Quantum-Labs">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}</style>
+<rect x="0.5" y="0.5" width="494" height="164" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+<line x1="165" y1="30" x2="165" y2="135" stroke="#d0d7de"/><line x1="330" y1="30" x2="330" y2="135" stroke="#d0d7de"/>
+
+  <text x="82.5" y="82" text-anchor="middle" font-size="34" font-weight="700" fill="#1a7f37">168</text>
+  <text x="82.5" y="112" text-anchor="middle" font-size="13" fill="#24292f">Total Contributions</text>
+  <text x="82.5" y="134" text-anchor="middle" font-size="11" fill="#57606a">1 Jan 2025 – Present</text>
+
+  <text x="247.5" y="82" text-anchor="middle" font-size="34" font-weight="700" fill="#0969da">1</text>
+  <text x="247.5" y="112" text-anchor="middle" font-size="13" fill="#24292f">Current Streak</text>
+  <text x="247.5" y="134" text-anchor="middle" font-size="11" fill="#57606a">15 Nov 2026 – 15 Nov 2026</text>
+
+  <text x="412.5" y="82" text-anchor="middle" font-size="34" font-weight="700" fill="#1a7f37">4</text>
+  <text x="412.5" y="112" text-anchor="middle" font-size="13" fill="#24292f">Longest Streak</text>
+  <text x="412.5" y="134" text-anchor="middle" font-size="11" fill="#57606a">31 May 2026 – 3 Jun 2026</text>
+<text x="247.5" y="154" text-anchor="middle" font-size="9" fill="#57606a">Updated 2026-11-15</text>
+</svg>
